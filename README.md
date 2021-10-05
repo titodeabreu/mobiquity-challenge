@@ -1,8 +1,8 @@
 # Package Challenge - Mobiquity
 
 ### Artifact 
-- ArtifactId: implementation
 - GroupId: com.mobiquity
+- ArtifactId: implementation
 - Version: 1.0-SNAPSHOT
 
 ### Build

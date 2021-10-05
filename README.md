@@ -6,12 +6,12 @@
 - Version: 1.0-SNAPSHOT
 
 ### Build
- mvn clean install
- gradle build
+- mvn clean install
+- gradle build
  
 ### Test
- mvn test
- gradle test
+- mvn test
+- gradle test
 
 
 Thanks, Tito Neto.
